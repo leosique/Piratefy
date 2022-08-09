@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890792585416",
+    "project_id": "piratefy-56c6c",
+    "storage_bucket": "piratefy-56c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890792585416:android:97c3b2c7741ccceb421dfd",
+        "android_client_info": {
+          "package_name": "com.example.piratefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890792585416-oi721d1pnoit2akfao4n7479vv7klagi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.piratefy",
+            "certificate_hash": "8118acd5d274b4bb20b26e130d63a2fa3340f70c"
+          }
+        },
+        {
+          "client_id": "890792585416-u7j65r9lpt7q9ctg0urbfcflcg90o2c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcc8UxddoehZjHwmB7d0Y1wG5pFXuFMVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890792585416-u7j65r9lpt7q9ctg0urbfcflcg90o2c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
